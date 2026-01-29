@@ -1,66 +1,58 @@
-AI Chatbot & Task Manager
-Overview
+<h1 align="center">🎓 AI Student Assistant Chatbot</h1>
 
-This project is an AI-powered desktop assistant that combines conversational AI with task management functionality. Users can interact with the AI through the Gemini API while creating, updating, and managing tasks via a clean graphical interface. It demonstrates practical application of Java Swing GUI development, API integration, and real-world desktop software design.
+<p align="center">
+An AI-powered desktop application designed to assist students by combining intelligent chatbot interaction with task management features in a single platform.
+</p>
 
-Features
-Intelligent Chatbot
+<hr>
 
-Real-time AI responses via Gemini API
+<h2>📌 Project Overview</h2>
+<p>
+The <strong>AI Student Assistant Chatbot</strong> is a Java-based desktop application that integrates an AI-powered chatbot with a task management system.
+The application aims to improve student productivity and learning efficiency by providing instant academic assistance along with organized task handling.
+</p>
+<p>
+It demonstrates real-world implementation of desktop application development, API integration, and modular software design using a graphical user interface.
+</p>
 
-Handles general conversation and user queries
+<h2>✨ Features</h2>
+<ul>
+  <li><strong>AI Chatbot</strong> : Provides intelligent responses to user queries through AI integration</li>
+  <li><strong>Task Management</strong> : Add, update, delete, and track academic tasks</li>
+  <li><strong>Undo Functionality</strong> : Restore accidentally deleted tasks</li>
+  <li><strong>User-Friendly Interface</strong> : Clean and intuitive desktop GUI</li>
+  <li><strong>Centralized Dashboard</strong> : Easy navigation between chatbot and task modules</li>
+</ul>
 
-Task Management
+<h2>🛠️ Technologies Used</h2>
+<ul>
+  <li>Java</li>
+  <li>Java Swing (GUI)</li>
+  <li>AI API Integration (Gemini)</li>
+  <li>File Handling</li>
+  <li>Object-Oriented Programming (OOP)</li>
+</ul>
 
-Add, update, delete, and track tasks
+<h2>🎯 Objectives & Learning Outcomes</h2>
+<ul>
+  <li>Build a real-world AI-powered desktop application</li>
+  <li>Understand API integration in Java applications</li>
+  <li>Apply OOP principles in a modular project</li>
+  <li>Enhance GUI development skills using Java Swing</li>
+  <li>Improve software design and user experience</li>
+</ul>
 
-Undo deleted tasks
+<h2>🚀 Future Enhancements</h2>
+<ul>
+  <li>User authentication and role-based access</li>
+  <li>Task and chat history export (PDF / CSV)</li>
+  <li>Improved AI context handling</li>
+  <li>UI/UX enhancements and theming</li>
+</ul>
 
-Centralized dashboard for task overview
-
-User Interface
-
-Clean and intuitive GUI with Java Swing
-
-Separate modules for chat and task management
-
-Easy navigation and operation
-
-Getting Started
-
-Clone the repository:
-
-git clone https://github.com/YOUR_USERNAME/AI-Chatbot-Task-Manager.git
-
-Open the project in a Java IDE (Eclipse, IntelliJ, NetBeans).
-
-Add your Gemini API key to the config.properties file or environment variable.
-
-Run the main class (dashboard.java or bot.java) to start the application.
-
-Technologies Used
-
-Java
-
-Java Swing (GUI)
-
-Gemini API (for AI responses)
-
-File Handling (task data storage)
-
-Future Enhancements
-
-Multi-user login and authentication
-
-Export tasks and chat history (PDF/CSV)
-
-Improved AI response handling with context awareness
-
-Enhanced UI/UX and theming options
-
-Author
-
-Ahmad Nawaz
-
-Computer Science Student
-Core Skills: Java, C++, Swing, API Integration
+<h2>👤 Author</h2>
+<p>
+<strong>Ahmad Nawaz</strong><br>
+Computer Science Student<br>
+Skills: Java, C++, Python, API Integration, Java Swing
+</p>
